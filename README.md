@@ -33,7 +33,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
-Estudiante de Ingeniería Informática del 5to ciclo, apasionado por la programación, el desarrollo web y la tecnología. Siempre aprendiendo nuevas herramientas y mejorando mis habilidades como desarrollador.
+Fifth-semester Computer Engineering student, passionate about programming, web development, and technology. Always learning new tools and improving my skills as a developer.
 
 - 💻 Programador web
 - 🚀 Aprendiendo nuevas tecnologías
